@@ -18,5 +18,5 @@ You may be asking, "Couldn't you execute these commands anyways?", Theoretically
 
 #Who is this guy?
 Hey, I have yet to introduce myself. My name is Dylan Katz, AKA Plazmaz. I'm sixteen currently, and have been fiddling with the code side of tech stuffs since I was nine. Predominately I work with Java, but javascript was just too perfect to pass up for this quick little project. You can get in to contact with me over social media:
-Reddit: https://www.reddit.com/user/Plazmaz1/
-Twitter: https://twitter.com/Plazmaz1
+*Reddit: https://www.reddit.com/user/Plazmaz1/
+*Twitter: https://twitter.com/Plazmaz1
